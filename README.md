@@ -1,2 +1,2 @@
 # Sea-Battle
-Sea Battle with only C++
+Sea Battle only with C++
