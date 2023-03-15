@@ -44,8 +44,9 @@
         <p>
             First Menu:
             <br />
+            <br />
             <img
-                style="width: 500px"
+                style="width: 600px"
                 src="imgs/Choose Ground Screenshot.png"
                 alt="Buy Menu Screenshot"
             />
@@ -55,8 +56,9 @@
         <p>
             Buy Menu:
             <br />
+            <br />
             <img
-                style="width: 500px"
+                style="width: 600px"
                 src="imgs/Buy Menu Screenshot.png"
                 alt="Buy Menu Screenshot"
             />
@@ -66,8 +68,9 @@
         <p>
             Game Menu:
             <br />
+            <br />
             <img
-                style="width: 500px"
+                style="width: 600px"
                 src="imgs/Game Menu Screenshot.png"
                 alt="Game Menu Screenshot"
             />
