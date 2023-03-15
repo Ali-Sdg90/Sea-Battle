@@ -79,7 +79,7 @@
 </ul>
 <h2>How to Play</h2>
 <p>
-    To play the game, download the code and run it in a C++ compiler. Follow the
+    To play the game, open Sea Battle v1.0.0.exe or download the code and run it in a C++ compiler. Follow the
     instructions on the screen to set up your ground, purchase equipment, and
     play against your opponent.
 </p>
