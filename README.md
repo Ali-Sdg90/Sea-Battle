@@ -41,7 +41,7 @@
 <h2>Screenshots</h2>
 <ul>
     <li>
-        <p>
+        <div>
             First Menu:
             <br />
             <br />
@@ -50,10 +50,10 @@
                 src="imgs/Choose Ground Screenshot.png"
                 alt="Buy Menu Screenshot"
             />
-        </p>
+        </div>
     </li>
     <li>
-        <p>
+        <div>
             Buy Menu:
             <br />
             <br />
@@ -62,10 +62,10 @@
                 src="imgs/Buy Menu Screenshot.png"
                 alt="Buy Menu Screenshot"
             />
-        </p>
+        </div>
     </li>
     <li>
-        <p>
+        <div>
             Game Menu:
             <br />
             <br />
@@ -74,7 +74,7 @@
                 src="imgs/Game Menu Screenshot.png"
                 alt="Game Menu Screenshot"
             />
-        </p>
+        </div>
     </li>
 </ul>
 <h2>How to Play</h2>
