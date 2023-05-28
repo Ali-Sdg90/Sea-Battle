@@ -1,4 +1,5 @@
 <h1>Sea Battle</h1>
+
 <p>
     This is a command-line game called Sea Battle written in C++. It took 5
     months to build and allows you to play against CPU.
